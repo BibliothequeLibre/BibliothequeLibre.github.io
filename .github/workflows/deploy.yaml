@@ -1,3 +1,7 @@
+# github does some weird stuff and created a workflow called "pages build and deployment" when "deploy from a branch"
+# is selected in Settings -> Pages.
+# it targets the `gh-pages` branch and deploys from there automatically
+
 name: DeployHugo
 
 on:
@@ -12,7 +16,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository and update Hugo themes
+      - name: Checkout repository
         uses: actions/checkout@v2
 
       - name: Install Hugo
@@ -24,6 +28,7 @@ jobs:
       - name: Build Hugo
         run: hugo --minify
 
+      # this task automatically pushes the ./public contents to the gh-pages branch
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
