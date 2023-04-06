@@ -1,4 +1,18 @@
 baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'ananke'
+languageCode = 'ch-fr'
+title = 'Bibliothèque Libre'
+#theme = "biblioTheme"
+
+[menu]
+[[menu.main]]
+name = "Accueil"
+url = "/"
+weight = 1
+[[menu.main]]
+name = "A Propos"
+url = "/apropos/"
+weight = 2
+[[menu.main]]
+name = "Livres"
+url = "/livres/"
+weight = 3
