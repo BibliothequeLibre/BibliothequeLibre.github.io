@@ -1,10 +1,10 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="fr">
     {{- partial "head.html" . -}}
     <body>
         {{- partial "header.html" . -}}
-        <div id="content">
-            <h1 class="title">{{ .Page.Title }}</h1>
+        <div id="content" class="container">
+            <h1 class="">{{ .Page.Title }}</h1>
             {{- block "main" . }}{{- end }}
         </div>
         {{- partial "footer.html" . -}}

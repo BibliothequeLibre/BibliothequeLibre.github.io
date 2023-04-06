@@ -1,2 +1,2 @@
 
-document.getElementById("books-div").innerHTML = "imma do stuff in js there"
+document.getElementById("books-div").innerHTML = "ca va être rempli dynamiquement de livres ici tmtc ca va chier"
