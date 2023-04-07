@@ -61,3 +61,25 @@ On [favicon.io](https://favicon.io/favicon-generator):
     - Font Variant: Black 900 Normal
     - Font Size: 73
 - Follow install steps on website
+
+### Google Sheets Proxy
+
+With the help
+of [this post](https://stackoverflow.com/questions/62732791/get-data-from-google-sheets-without-sheets-api),
+create a new [Google App Script](https://script.new), deploy it as a Web Application, make it accessible to the public
+and act in your name.
+
+Use the following code to map it to your Google Sheet:
+
+```js
+function doGet(e) {
+    const id = "1GBq2jBEA_wXXTyTdGDSARicH0yT_xDbwlH1RgdnzLfM";
+    const sheetName = "Sheet1";
+    const sheet = SpreadsheetApp.openById(id).getSheetByName(sheetName);
+    const values = sheet.getDataRange().getValues();
+    return ContentService.createTextOutput(JSON.stringify({values: values})).setMimeType(ContentService.MimeType.JSON);
+}
+```
+
+Then paste the URL of your WebApp to [`config.ts`](assets/ts/app/config.ts).
+> Note: the structure of the google sheet should match the processing logic inside `config.ts`

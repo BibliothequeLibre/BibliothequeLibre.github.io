@@ -1,9 +1,13 @@
 {{ define "main" }}
 {{.Content}}
-<div id="books-div">enable js pls</div>
+<div id="books-div">
+    <div class="text-center p-3 custom-spin">
+        <i data-feather="loader"></i>
+    </div>
+</div>
 {{ end }}
 
 {{ define "customjs" }}
-<script src="/js/script.js">
-</script>
+{{ $js := resources.Get "ts/app/main-books.ts" | js.Build (dict "minify" true) }}
+<script src="{{ $js.Permalink }}" defer></script>
 {{ end }}
