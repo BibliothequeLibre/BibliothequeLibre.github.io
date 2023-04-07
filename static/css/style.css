@@ -3,3 +3,21 @@
     padding-top: 2em;
     padding-bottom: 2em;
 }
+
+
+/*make loader slowly spin to keep the user aware of loading*/
+.custom-spin {
+    animation-name: spin;
+    animation-duration: 5000ms;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+
+@keyframes spin {
+    from {
+        transform:rotate(0deg);
+    }
+    to {
+        transform:rotate(360deg);
+    }
+}
