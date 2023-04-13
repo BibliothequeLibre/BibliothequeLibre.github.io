@@ -31,7 +31,7 @@ export class SheetParser {
             theme: row[4],
             trigger: row[5],
             status: row[6],
-            lendingDate: row[7]
+            lendingDate: row[7].split("T")[0]
         }))
     }
 
