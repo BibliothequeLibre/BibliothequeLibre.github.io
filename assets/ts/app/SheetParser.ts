@@ -20,10 +20,19 @@ export class SheetParser {
     private parseData(response: ApiResponse): Promise<Array<Book>> {
         let booksResponse = response.values;
         // we don't want the csv headers, pop first item
-        booksResponse.pop();
+        booksResponse.shift();
         // I don't wanna fight over typing for now
         // @ts-ignore
-        return booksResponse.map((row) => ({isbn: row[0], title: row[1], author: row[2], year: row[3]}))
+        return booksResponse.map((row) => ({
+            isbn: row[0],
+            title: row[1],
+            author: row[2],
+            publishingDate: row[3],
+            theme: row[4],
+            trigger: row[5],
+            status: row[6],
+            lendingDate: row[7].split("T")[0]
+        }))
     }
 
     public async getAndParseBooks() {
