@@ -2,7 +2,7 @@
 # is selected in Settings -> Pages.
 # it targets the `gh-pages` branch and deploys from there automatically
 
-name: DeployHugo
+name: build-hugo-and-push-gh-pages
 
 on:
   push:

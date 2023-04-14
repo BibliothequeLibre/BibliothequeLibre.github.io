@@ -1,4 +1,4 @@
-name: TestBuildHugo
+name: test-build-hugo
 
 on:
   pull_request:
