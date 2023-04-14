@@ -14,6 +14,10 @@ export class SheetParser {
     private getSheetData() {
         return fetch(this.url)
             .then(response => response.json())
+            .catch(responseJson => {
+                console.log("Could not get response from url:", responseJson);
+                return {values: ["shifted"]};
+            })
             .then(this.parseData);
     }
 
