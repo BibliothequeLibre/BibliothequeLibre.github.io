@@ -3,6 +3,7 @@ languageCode = 'ch-fr'
 title = 'Bibliothèque Libre'
 
 disableKinds = ["taxonomy"]
+ignoreErrors = ["error-disable-taxonomy"]
 
 [menu]
 [[menu.main]]
