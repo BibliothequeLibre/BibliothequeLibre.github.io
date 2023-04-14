@@ -5,6 +5,15 @@ export class TableFiller {
     }
 
     public fillElement(elementToFill: HTMLElement, books: Array<Book>) {
+        if (books.length == 0) {
+            elementToFill.innerHTML = `<div class="alert alert-warning" role="alert">
+                Aucun livre n'a été trouvé. Activez Javascript et assurez vous que vous n'avez pas
+                d'extensions de navigateurs qui bloquent l'accès a Google Scripts (par exemple avec Firefox: 'Privacy Badger' ou
+                'DuckDuckGo Privacy Extensions'). Si en changeant vos paramètres l'erreur persiste, merci de contacter
+                la personne responsable.
+                </div>`;
+            return;
+        }
         elementToFill.innerHTML = this.generateTableElement();
         let table = new DataTable('#book-table', {
             data: books.map(book => [
@@ -31,7 +40,7 @@ export class TableFiller {
                   <th scope="col">Auteur&middot;trice</th>
                   <th scope="col">Titre</th>
                   <th scope="col">Date de publication</th>
-                  <th scope="col">Thème</th>
+                  <th scope="col">Thématique</th>
                   <th scope="col">Trigger</th>
                   <th scope="col">Status</th>
                   <th scope="col">Date d'emprunt</th>

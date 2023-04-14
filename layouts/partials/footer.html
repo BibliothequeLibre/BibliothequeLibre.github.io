@@ -1,7 +1,12 @@
 <footer class="bg-light text-lg-start">
-    <div class="text-center p-3" >
-        <i data-feather="github"
-           style="cursor: pointer;"
-           onclick="window.open('https://github.com/BibliothequeLibre/BibliothequeLibre.github.io', '_blank')"></i>
+    <div class="text-center p-3">
+        <!--
+        feather.replace() does not work if you have special characters in the <i> element before calling the function
+        so we put those in a div that encapsulates the <i>
+         -->
+        <div style="cursor: pointer;"
+             onclick="window.open('https://github.com/BibliothequeLibre/BibliothequeLibre.github.io', '_blank')">
+            <i data-feather="github"></i>
+        </div>
     </div>
 </footer>
