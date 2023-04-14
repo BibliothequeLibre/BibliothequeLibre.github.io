@@ -1,4 +1,4 @@
-name: TestBuildHugo
+name: test-build-hugo
 
 on:
   pull_request:
@@ -21,3 +21,11 @@ jobs:
 
       - name: Build Hugo
         run: hugo
+
+      - name: Report Build Status
+        run: |
+          gh api -X POST "repos/$GITHUB_REPOSITORY/pages/telemetry" \
+            -F github_run_id="$GITHUB_RUN_ID" \
+            -F conclusion="success"
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
