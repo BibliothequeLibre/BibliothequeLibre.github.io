@@ -40,9 +40,10 @@ On paper, you could also ask for reviews from other team members before merging 
 confirm they are OK with your changes.
 
 > TODO: process to add images :)
-> broadly: add image into `static/images/` folder, add `![alternate text](/images/image-name.png)` where you want your
-> image
-> to pop and that's it
+> broadly: add image into `static/images/` folder, add `{{< image source="NAME_OF_YOUR_IMAGE_FILE" >}}` where you want your
+> image to pop and that's it. If you want to make multiple changes at once (for example, adding an image and linking it 
+> from a Markdown file) you should create a new branch (i.e. when you edit the text), then add a new image to that branch, 
+> and finally open and merge the Pull Request.
 
 ## Dev stuff
 

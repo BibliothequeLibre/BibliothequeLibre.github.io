@@ -23,3 +23,11 @@ second paragraphe
 1. on peut faire des listes numérotées
 2. aussi
 3. c'est fun
+
+Insérer une image:
+<!--
+Ceci est un commentaire, il n'aparait pas dans le site web:
+L'image doit être ajoutée dans le dossier static/images/, puis on doit simplement copier la ligne suivante et changer le parametre
+"source"
+-->
+{{< image source="img_example.png" >}}
