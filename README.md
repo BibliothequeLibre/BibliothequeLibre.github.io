@@ -1,4 +1,6 @@
 # README
+[![build and push to gh-pages](https://github.com/BibliothequeLibre/BibliothequeLibre.github.io/actions/workflows/deploy.yaml/badge.svg)](https://github.com/BibliothequeLibre/BibliothequeLibre.github.io/actions/workflows/deploy.yaml)
+[![pages-build-deployment](https://github.com/BibliothequeLibre/BibliothequeLibre.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/BibliothequeLibre/BibliothequeLibre.github.io/actions/workflows/pages/pages-build-deployment)
 
 ## Content Management
 
