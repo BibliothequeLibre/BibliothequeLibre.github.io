@@ -2,6 +2,9 @@ baseURL = 'https://bibliothequelibre.ch/'
 languageCode = 'ch-fr'
 title = 'Bibliothèque Libre'
 
+disableKinds = ["taxonomy"]
+ignoreErrors = ["error-disable-taxonomy"]
+
 [menu]
 [[menu.main]]
 # name of the tab
