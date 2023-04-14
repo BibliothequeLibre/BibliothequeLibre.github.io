@@ -1,26 +1,32 @@
 baseURL = 'https://bibliothequelibre.ch/'
 languageCode = 'ch-fr'
 title = 'Bibliothèque Libre'
-#theme = "biblioTheme"
 
 [menu]
 [[menu.main]]
+# name of the tab
 name = "Accueil"
+# mapped to content/_index.md
 url = "/"
+# order of the tab
 weight = 1
 [[menu.main]]
 name = "Agenda"
+# mapped to content/agenda.md
 url = "/agenda/"
 weight = 2
 [[menu.main]]
 name = "Livres"
+# mapped to content/livres.md
 url = "/livres/"
 weight = 3
 [[menu.main]]
 name = "Accès"
+# mapped to content/acces.md
 url = "/acces/"
 weight = 4
 [[menu.main]]
 name = "Photos et archives"
+# mapped to content/photos-archives.md
 url = "/photos-archives/"
 weight = 5

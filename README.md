@@ -39,11 +39,61 @@ You can then hit "Merge pull request".
 On paper, you could also ask for reviews from other team members before merging the pull request so that multiple people
 confirm they are OK with your changes.
 
+One key thing to keep in mind is that you should always have the following code at the top of your content pages:
+```yaml
+---
+title: "Accès"
+---
+```
+It will be used as the title of the page and as the "tab name" in your browser. Do not remove the extra `type: livres` at
+the top of the `content/livres.md` file as it is needed to automatically search for the available books. :)
+
 > TODO: process to add images :)
 > broadly: add image into `static/images/` folder, add `{{< image source="NAME_OF_YOUR_IMAGE_FILE" >}}` where you want your
 > image to pop and that's it. If you want to make multiple changes at once (for example, adding an image and linking it 
 > from a Markdown file) you should create a new branch (i.e. when you edit the text), then add a new image to that branch, 
 > and finally open and merge the Pull Request.
+
+### Adding and removing tabs
+A list of the tabs is located in [`config.toml`](config.toml):
+```toml
+[menu]
+[[menu.main]]
+# name of the tab
+name = "Accueil"
+# mapped to content/_index.md
+url = "/"
+# order of the tab
+weight = 1
+[[menu.main]]
+name = "Agenda"
+# mapped to content/agenda.md
+url = "/agenda/"
+weight = 2
+[[menu.main]]
+name = "Livres"
+# mapped to content/livres.md
+url = "/livres/"
+weight = 3
+[[menu.main]]
+name = "Accès"
+# mapped to content/acces.md
+url = "/acces/"
+weight = 4
+[[menu.main]]
+name = "Photos et archives"
+# mapped to content/photos-archives.md
+url = "/photos-archives/"
+weight = 5
+```
+- Each `[[menu.main]]` item is the configuration for a tab.
+- The `name` property is the name of the tab as it appears at the top of the navigation bar of the website.
+- The `url` property is the link of the tab - it should reflect the name of the file located in the `content` folder.
+- The `weight` property is the order of the tab.
+
+You can freely remove/edit the `[[menu.main]]` items to change the look and feel of the website. However, we currently
+don't have a site map for our users, which means that a page that does not appear in a tab won't be accessible to the 
+users unless it is referenced in another page, or they know the link to it.
 
 ## Dev stuff
 
