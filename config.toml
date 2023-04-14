@@ -1,4 +1,4 @@
-baseURL = 'https://bibliothequelibre.github.io/'
+baseURL = 'https://bibliothequelibre.ch/'
 languageCode = 'ch-fr'
 title = 'Bibliothèque Libre'
 #theme = "biblioTheme"
