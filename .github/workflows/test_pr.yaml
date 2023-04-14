@@ -27,3 +27,5 @@ jobs:
           gh api -X POST "repos/$GITHUB_REPOSITORY/pages/telemetry" \
             -F github_run_id="$GITHUB_RUN_ID" \
             -F conclusion="$CONCLUSION"
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
