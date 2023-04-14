@@ -11,15 +11,20 @@ export class TableFiller {
         }
         elementToFill.innerHTML = this.generateTableElement();
         new DataTable('#book-table', {
-            data: books.map(book => [
-                book.isbn,
-                book.title,
-                book.author,
-                book.publishingDate,
-                book.theme,
-                book.trigger,
-                book.status,
-                book.lendingDate]),
+            data: books,
+            columns: [
+                {data: "isbn"},
+                {data: "title", width: "30em"},
+                {data: "author"},
+                {data: "publishingDate"},
+                {data: "theme"},
+                {data: "trigger"},
+                {data: "status", render: (data, type, full, meta) => {
+                        let className = data == "disponible" ? "bg-success" : "bg-danger";
+                        return `<span class="badge ${className}">${data}</span>`
+                    }},
+                {data: "lendingDate"}
+            ],
             language: {
                 url: 'https://cdn.datatables.net/plug-ins/1.13.4/i18n/fr-FR.json',
             },
