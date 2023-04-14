@@ -31,7 +31,7 @@ export class TableFiller {
                   <th scope="col">Auteur&middot;trice</th>
                   <th scope="col">Titre</th>
                   <th scope="col">Date de publication</th>
-                  <th scope="col">Thème</th>
+                  <th scope="col">Thématique</th>
                   <th scope="col">Trigger</th>
                   <th scope="col">Status</th>
                   <th scope="col">Date d'emprunt</th>

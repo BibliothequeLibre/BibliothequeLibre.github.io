@@ -9,10 +9,18 @@ name = "Accueil"
 url = "/"
 weight = 1
 [[menu.main]]
-name = "A Propos"
-url = "/apropos/"
+name = "Agenda"
+url = "/agenda/"
 weight = 2
 [[menu.main]]
 name = "Livres"
 url = "/livres/"
 weight = 3
+[[menu.main]]
+name = "Accès"
+url = "/acces/"
+weight = 4
+[[menu.main]]
+name = "Photos et archives"
+url = "/photos-archives/"
+weight = 5

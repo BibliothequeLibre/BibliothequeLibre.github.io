@@ -13,8 +13,8 @@ To edit text content, go to the [`content`](content) folder. There are currently
 
 - [`_index.md`](content/_index.md):
     - The "Home" page
-- [`apropos.md`](content/apropos.md):
-    - The "A Propos" page
+- [`agenda.md`](content/agenda.md):
+    - The "Agenda" page
 - [`livres.md`](content/livres.md):
     - The "Livres" page. You can freely edit the content of this file but keep in mind that the list of books is
       automatically added at the bottom.
