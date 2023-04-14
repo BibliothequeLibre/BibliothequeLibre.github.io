@@ -34,9 +34,8 @@ export class TableFiller {
     private generateWarningMessageIfEmptyBooks() {
         return `<div class="alert alert-warning" role="alert">
                 Aucun livre n'a été trouvé. Activez Javascript et assurez vous que vous n'avez pas
-                d'extensions de navigateurs qui bloquent l'accès a Google Scripts (par exemple avec Firefox: 'Privacy Badger' ou
-                'DuckDuckGo Privacy Extensions'). Si en changeant vos paramètres l'erreur persiste, merci de contacter
-                la personne responsable.
+                d'extensions de navigateurs qui bloquent l'accès a Google Scripts (par exemple 'Privacy Badger').
+                Si en changeant vos paramètres l'erreur persiste, merci de contacter la personne responsable.
                 </div>`;
     }
 
