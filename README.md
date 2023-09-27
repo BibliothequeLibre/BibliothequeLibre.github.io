@@ -11,7 +11,7 @@ You must be added as a contributor in the BibliothequeLibre organisation on Gith
 
 ### Editing text content
 
-To edit text content, go to the [`content`](content) folder. There are currently 3 files in there:
+To edit text content, go to the [`content`](content) folder. There are currently 5 files in there:
 
 - [`_index.md`](content/_index.md):
     - The "Accueil" page
@@ -135,13 +135,32 @@ Use the following code to map it to your Google Sheet:
 
 ```js
 function doGet(e) {
+
+  const pathInfo = e.queryString;
+  let content = null;
+  if (pathInfo == "") {
     const id = "SHEET_ID";
     const sheetName = "SHEET_NAME";
     const sheet = SpreadsheetApp.openById(id).getSheetByName(sheetName);
     const values = sheet.getDataRange().getValues();
-    return ContentService.createTextOutput(JSON.stringify({values: values})).setMimeType(ContentService.MimeType.JSON);
+    content = { values: values };
+  }
+  else if (pathInfo == "mail") {
+    content = { mail: "mailto:EMAIL_ADDRESS" };
+  }
+  else if (pathInfo == "telegram") {
+    content = { telegram: "TELEGRAM_LINK" };
+  }
+  else if (pathInfo == "instagram") {
+    content = { instagram: "INSTAGRAM_LINK" };
+  }
+
+  return ContentService.createTextOutput(JSON.stringify(content)).setMimeType(ContentService.MimeType.JSON);
 }
+
 ```
+> Note: the logic for mail/telegram/instagram querystrings are added so that the links are not available directly on the
+> website and people have to interact with it to get them, in an effort to prevent bots from scraping the website.
 
 Then paste the URL of your WebApp to [`config.ts`](assets/ts/app/config.ts).
 > Note: the structure of the google sheet should match the processing logic inside `SheetParser.ts`

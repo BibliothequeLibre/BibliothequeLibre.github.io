@@ -1,1 +1,1 @@
-export const URL_BOOKS_PROXY = "https://script.google.com/macros/s/AKfycbwH8daIpK6TD7-kqrF-0rgsgU9LzGceIsebvGWnbesVGDx2rwN5hH7CZNP1cyUXpVu0tg/exec";
+export const URL_BOOKS_PROXY = "https://script.google.com/macros/s/AKfycbzSZC8h1J5219wrKfMRrR3KHrdYLFDOPVUZxUrm-TAvhaPRQfVnBe2gGbGOV0jyLjzOuQ/exec";
