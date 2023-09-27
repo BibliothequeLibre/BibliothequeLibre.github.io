@@ -2,7 +2,7 @@
 title: "Accueil"
 ---
 
-{{< image source="logobiblio" >}}
+{{< image source="logobiblio.jpeg" >}}
 
 ## Qui sommes-nouX ?
 
