@@ -2,8 +2,9 @@
 title: "Accueil"
 ---
 
+{{< image source="logobiblio.jpeg" >}}
 
-## Qui sommes-nouX ?
+## Qui sommes-nouX?
 
 La Bibliothèque Libre est une bibliothèque libertaire à visée révolutionnaire.
 Son histoire débute au squat de la Prise (NE), où ses habitant-x-e-s créent collectivement et progressivement un infokiosk, comprenant des livres, des BD et des zines.
