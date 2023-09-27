@@ -1,0 +1,13 @@
+{{ define "main" }}
+{{.Content}}
+<ul>
+    <li id="link-mail" style="cursor: pointer">Mail: <i data-feather="mail"></i></li>
+    <li id="link-telegram" style="cursor: pointer">Telegram: <i data-feather="send"></i></li>
+    <li id="link-instagram" style="cursor: pointer">Instagram: <i data-feather="instagram"></i></li>
+</ul>
+{{ end }}
+
+{{ define "customjs" }}
+{{ $js := resources.Get "ts/app/main-contact.ts" | js.Build (dict "minify" true) }}
+<script src="{{ $js.Permalink }}" defer></script>
+{{ end }}
