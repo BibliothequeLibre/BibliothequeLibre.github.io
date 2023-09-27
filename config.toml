@@ -14,7 +14,7 @@ url = "/"
 # order of the tab
 weight = 1
 [[menu.main]]
-name = "Agenda"
+name = "Horaires et Agenda"
 # mapped to content/agenda.md
 url = "/agenda/"
 weight = 2
@@ -24,7 +24,7 @@ name = "Livres"
 url = "/livres/"
 weight = 3
 [[menu.main]]
-name = "Accès"
+name = "Accès et Contact"
 # mapped to content/acces.md
 url = "/acces/"
 weight = 4
