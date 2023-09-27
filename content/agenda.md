@@ -2,16 +2,11 @@
 title: "Horaires et agenda"
 ---
 
-## Permanences
+## Horaires
 
-NouX ouvrons la bibliothèque le premier mardi et le troisième vendredi du mois.
+La bibliothèque est ouverte de 16h à 19h le premier mardi et le troisième vendredi du mois.
 
-### Heures d'ouverture
-
-- 16h à 19h 
-
-### Prochaines dates
-
+Les prochaines dates sont les :
 - 3 et 20 coctobre 2023
 - 7 et 17 novembre 2023
 - 6 et 22 décembre 2023
