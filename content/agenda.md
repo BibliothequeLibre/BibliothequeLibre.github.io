@@ -1,33 +1,21 @@
 ---
-title: "Agenda"
+title: "Horaires et agenda"
 ---
 
-## Sous titre
+## Permanences
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
-aliqua. Pellentesque eu tincidunt tortor aliquam nulla facilisi cras fermentum odio. A erat nam at lectus urna duis. Sed
-velit dignissim sodales ut eu sem. Lectus urna duis convallis convallis tellus. Diam sit amet nisl suscipit adipiscing
-bibendum est. Sed felis eget velit aliquet sagittis id consectetur. Vulputate dignissim suspendisse in est ante in nibh
-mauris cursus. Morbi quis commodo odio aenean. Mollis nunc sed id semper risus in hendrerit gravida rutrum.
+NouX ouvrons la bibliothèque le premier mardi et le troisième vendredi du mois.
 
-## Sous titre 2
+### Heures d'ouverture
 
-second paragraphe
+- 16h à 19h 
 
-- avec
-- une
-- liste
-    - de deux niveaux
-    - il semblerait
+### Prochaines dates
 
-1. on peut faire des listes numérotées
-2. aussi
-3. c'est fun
+- 3 et 20 coctobre 2023
+- 7 et 17 novembre 2023
+- 6 et 22 décembre 2023
 
-Insérer une image:
-<!--
-Ceci est un commentaire, il n'aparait pas dans le site web:
-L'image doit être ajoutée dans le dossier static/images/, puis on doit simplement copier la ligne suivante et changer le parametre
-"source"
--->
-{{< image source="img_example.png" >}}
+## Evénements à venir
+Fête d'ouverture officielle de la bibliothèque le 17 novembre 2023.
+Réserve la date, on prépare de jolies choses !
