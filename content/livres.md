@@ -14,7 +14,7 @@ En plus de cela, d’autres ouvrages plus généralistes sont aussi à découvri
 
 ## Emprunt
 
-Tous les ouvrages sont répertoriés dans le catalogue disponible ci-dessous.
+Tous les ouvrages sont répertoriés dans le catalogue disponible ci-dessous. Enfin, pas encore tout à fait, mais ils le seront bientôt. On avoue avoir été un peu surpris par le temps que tout cataloguer nous prend lol.
 
 L’emprunt se fait sur place au moyen d’un blaze et d’un moyen de contact. Il n’y a pas de limite de temps d’emprunt, l’autogestion de chacun-x-e est de mise pour rendre un document.
 
