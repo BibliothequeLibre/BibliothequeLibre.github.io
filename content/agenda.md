@@ -7,10 +7,9 @@ title: "Horaires et agenda"
 La bibliothèque est ouverte de 16h à 19h le premier mardi et le troisième vendredi du mois.
 
 Les prochaines dates sont les :
-- 3 et 20 octobre 2023
-- 7 et 17 novembre 2023
-- 6 et 22 décembre 2023
+- 22 décembre 2023
+- 9 et 19 janvier 2024
+- 6 et 23 février 2024
 
 ## Evénements à venir
-Fête d'ouverture officielle de la bibliothèque le 17 novembre 2023.
-Réserve la date, on prépare de jolies choses !
+On vous prépare une petite projection après la permanence du 23 février! Va nous suvire sur insta (ou mieux, rejoins le canal Telegram) pour les informations.
