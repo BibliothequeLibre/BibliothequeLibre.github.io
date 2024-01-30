@@ -13,17 +13,13 @@ export class TableFiller {
         new DataTable('#book-table', {
             data: books,
             columns: [
+                {data: "docType"},
+                {data: "category"},
                 {data: "isbn"},
                 {data: "title", width: "30em"},
                 {data: "author"},
-                {data: "publishingDate"},
-                {data: "theme"},
-                {data: "trigger"},
-                {data: "status", render: (data, type, full, meta) => {
-                        let className = data == "disponible" ? "bg-success" : "bg-danger";
-                        return `<span class="badge ${className}">${data}</span>`
-                    }},
-                {data: "lendingDate"}
+                {data: "year"},
+                {data: "editions"},
             ],
             language: {
                 url: 'https://cdn.datatables.net/plug-ins/1.13.4/i18n/fr-FR.json',
@@ -44,14 +40,13 @@ export class TableFiller {
             <table id="book-table" class="table table-striped table-sm table-hover">
               <thead>
                 <tr>
-                  <th scope="col">Cote</th>
+                  <th scope="col">Type de doc</th>
+                  <th scope="col">Catégorie</th>
+                  <th scope="col">ISBN</th>
                   <th scope="col">Titre</th>
-                  <th scope="col">Auteur&middot;trice</th>
-                  <th scope="col">Date de publication</th>
-                  <th scope="col">Thématique</th>
-                  <th scope="col">Trigger</th>
-                  <th scope="col">Status</th>
-                  <th scope="col">Date d'emprunt</th>
+                  <th scope="col">Auteuricexs</th>
+                  <th scope="col">Années</th>
+                  <th scope="col">Maisons d'édition</th>
                 </tr>
               </thead>
               <tbody>
