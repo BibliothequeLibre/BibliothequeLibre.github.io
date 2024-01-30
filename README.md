@@ -7,7 +7,8 @@
 ### Github Organisation
 
 You must be added as a contributor in the BibliothequeLibre organisation on Github in order to edit the website.
-> TODO: process to add contributors
+For now, contributors must be Owners of the BibliothequeLibre org and must not try to merge branches from forked repos.
+In the future we should fix this and allow Members to create PRs.
 
 ### Editing text content
 
