@@ -12,7 +12,7 @@ Justice sociale, féminisme, antiracisme, écologie, mouvements sociaux et polit
 
 En plus de cela, d’autres ouvrages plus généralistes sont aussi à découvrir.
 
-## Emprunt
+## Emprunts
 
 Tous les ouvrages sont répertoriés dans le catalogue disponible ci-dessous. Enfin, pas encore tout à fait, mais ils le seront bientôt. On avoue avoir été un peu surpris par le temps que tout cataloguer nous prend lol.
 
