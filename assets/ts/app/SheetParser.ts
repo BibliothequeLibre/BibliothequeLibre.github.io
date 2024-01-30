@@ -28,14 +28,13 @@ export class SheetParser {
         // I don't wanna fight over typing for now
         // @ts-ignore
         return booksResponse.map((row) => ({
-            isbn: row[0],
-            title: row[1],
-            author: row[2],
-            publishingDate: row[3],
-            theme: row[4],
-            trigger: row[5],
-            status: row[6],
-            lendingDate: row[7].split("T")[0]
+            docType: row[0],
+            category: row[1],
+            isbn: ""+ row[2],
+            title: row[3],
+            author: row[4],
+            year: row[5],
+            editions: row[6],
         }))
     }
 

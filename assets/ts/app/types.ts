@@ -1,10 +1,9 @@
 export interface Book {
+    docType: string,
+    category: string,
     isbn: string,
     title: string,
     author: string,
-    publishingDate: string,
-    theme: string,
-    trigger: string,
-    status: string,
-    lendingDate: string,
+    year: string,
+    editions: string,
 }
