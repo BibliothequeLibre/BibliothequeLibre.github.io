@@ -19,3 +19,4 @@ Basé sur les archives sonores enregistrées par Christian Wist en 1983, ce film
 Réflexions et causeries anarchistes, chants révolutionnaires, luttes collectives... De quoi bien se remplir les oreilles !
 
 Comme d'habitude, la bibliothèque sera ouverte dès 16h pour la permanence.
+Le film sera projeté à 19h.
