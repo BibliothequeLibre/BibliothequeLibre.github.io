@@ -16,12 +16,6 @@ Du coup, les prochaines dates sont :
 - 2 juillet 2024
 
 ## Evénements à venir
-Comme chaque année, on vous organise un petit brunch de soutien le lundi de Pentecôte, donc le 20 mai. L'événement prendra place au Jardin de la Main dès 12h00. A 14h30, on fera aussi un loto avec des petits lots supers dont les bénéfices seront reversés à des associations impliquées pour la cause palestinienne. 
-
-Où ? Rue de la Main 6/8, 2000 Neuchâtel
-
-Quand ? 20 mai 2024
-
-A quelle heure ? Repas dès 12h00 (on aura définitivement du retard lol) et loto à 14h30
+ANNULATION DU BRUNCH DE LUNDI 20 MAI. ON VOUS EXPLIQUE BIENTÔT POURQUOI, PLEIN DE TRUCS CHOUETTES A VENIR HEHE
 
 {{< image source="240520_AfficheBrunchBiblio.png" >}}
