@@ -1,7 +1,7 @@
 ---
 title: "Accueil"
 ---
-## BRUNCH DE SOUTIEN LE 20 MAI 2024 // SAVE THE DATE
+## BRUNCH DE SOUTIEN DU 20 MAI 2024 ANNULÉ - DES TRUCS CHOUETTES BIENTÔT
 
 {{< image source="logobiblio.jpeg" >}}
 
