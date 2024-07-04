@@ -11,7 +11,7 @@ Notre bibliothèque est située au Clos-de-Serrières 25, à Serrières (NE).
 
 Pour accéder au lieu, tu peux :
 
-Depuis la place Pury : prendre le bus 102 et sortir à l'arrêt Battieux (même pas 10 minutes de bus!). Il faut ensuite marcher 100 mètres. Sinon, tu peux prendre le tram, sortir à l'arrêt Serrières-Ruau et marcher une dizaine de minutes en montée
+Depuis la place Pury : prendre le bus 102 et sortir à l'arrêt Battieux (même pas 10 minutes de bus!). Il faut ensuite marcher 100 mètres. Sinon, tu peux prendre le tram, sortir à l'arrêt Port de Serrières et marcher une dizaine de minutes en montée
 
 Depuis la gare de Neuchâtel:  prends n'importe quel train qui s'arrête à la gare de Serrières et marche 5 minutes en descente
 
