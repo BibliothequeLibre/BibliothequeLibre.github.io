@@ -1,7 +1,7 @@
 ---
 title: "Accueil"
 ---
-## BRUNCH DE SOUTIEN DU 20 MAI 2024 ANNULÉ - DES TRUCS CHOUETTES BIENTÔT
+## On a déménagé au Clos-de-Serrières 25 !
 
 {{< image source="logobiblio.jpeg" >}}
 
