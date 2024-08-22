@@ -56,6 +56,8 @@ the top of the `content/livres.md` file as it is needed to automatically search 
 > image to pop and that's it. If you want to make multiple changes at once (for example, adding an image and linking it 
 > from a Markdown file) you should create a new branch (i.e. when you edit the text), then add a new image to that branch, 
 > and finally open and merge the Pull Request.
+> To use pdfs instead of images, you need to change the code to `{{< pdf source="NAME_OF_YOUR_PDF_FILE" >}}`, that you still
+> need to upload to `static/images`.
 
 ### Adding and removing tabs
 A list of the tabs is located in [`config.toml`](config.toml):
