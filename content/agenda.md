@@ -4,15 +4,15 @@ title: "Horaires et agenda"
 
 ## Horaires
 
-La bibliothèque est ouverte de 16h à 19h le premier mardi et le troisième vendredi du mois.
+Euh mais super, on ouvre désormais toutes les vendredis, de 16 à 19 heures, à partir du 6 septembre. Quelle aubaine!
 
-Du coup, les prochaines dates sont :
-- 9 juillet 2024
-puis on fait un petite pause pour l'été. On a un peu besoin de souffler
-- 6 août 2024
+## Réouverture en grande pompe!
+Pour la deuxième fois en un an (lol), on vous prépare un véritable événement d'ouverture pour célébrer notre emménagement à Béthanie 
+
+Il prendra place le 28 septembre 2024, de 17 à 22h00, dans nos nouveaux locaux de Serrières. 
+
+Pour l'occasion, des supers artistexs se produiront (trop bien, on sait!). On aura la chance de vous proposer un live de Languille, un super DJ set de Furious KT & Lieuss' ainsi qu'une carte blanche littéraire de nos gentillexs bailleureusexs, la NAP, qui se serviront dans les bouquins de la bilbio' pour vous présenter une petit quelque chose de sympa. On a hâte de vous y voir.
 
 ## Evénements à venir
-Pour la fin de l'été, on vous prépare un véritable événement d'ouverture (le deuxième en un an lol). Plus d'infos à suivre.
-
-Pour l'automne 2024, on est en train de plancher sur des événements sur la question de la répression et de la surveillance. Si tu as des gens que tu aimerais inviter, des films que tu aimerais voir, etc... prends contact avec nous !
+Pour l'automne 2024, on est en train de plancher sur des événements sur la question de la répression et de la surveillance. Si tu as des gens que tu aimerais inviter, des films que tu aimerais voir, etc... prends contact avec nous ! On vous présentera tout ça lors de l'événement d'ouverture.
 
