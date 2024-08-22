@@ -13,7 +13,7 @@ Il prendra place le 28 septembre 2024, de 17 à 22h00, dans nos nouveaux locaux 
 
 Pour l'occasion, des supers artistexs se produiront (trop bien, on sait!). On aura la chance de vous proposer un live de Languille, un super DJ set de Furious KT & Lieuss' ainsi qu'une carte blanche littéraire de nos gentillexs bailleureusexs, la NAP, qui se serviront dans les bouquins de la bilbio' pour vous présenter une petit quelque chose de sympa. On a hâte de vous y voir.
 
-{{< image source="240822 - Grande ouverture A3.pdf" >}}
+{{< pdf source="240822 - Grande ouverture A3.pdf" >}}
 
 ## Evénements à venir
 Pour l'automne 2024, on est en train de plancher sur des événements sur la question de la répression et de la surveillance. Si tu as des gens que tu aimerais inviter, des films que tu aimerais voir, etc... prends contact avec nous ! On vous présentera tout ça lors de l'événement d'ouverture.
