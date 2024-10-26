@@ -6,15 +6,7 @@ title: "Horaires et agenda"
 
 Euh mais super, dès le 6 septembre, on ouvre tous les vendredis de 16 à 19 heures. Quelle aubaine!
 
-## Réouverture en grande pompe!
-Pour la deuxième fois en un an (lol), on vous prépare un véritable événement d'ouverture pour célébrer notre emménagement à Béthanie 
-
-Il prendra place le 28 septembre 2024, de 17 à 22h00, dans nos nouveaux locaux de Serrières. 
-
-Pour l'occasion, des supers artistexs se produiront (trop bien, on sait!). On aura la chance de vous proposer un live de Languille, un super DJ set de Furious KT & Lieuss' ainsi qu'une carte blanche littéraire de nos gentillexs bailleureusexs, la NAP, qui se serviront dans les bouquins de la biblio' pour vous présenter une petit quelque chose de sympa. On a hâte de vous y voir.
-
-{{< pdf source="240822 - Grande ouverture A3.pdf" >}}
-
 ## Evénements à venir
-Pour l'automne 2024, on est en train de plancher sur des événements sur la question de la répression et de la surveillance. Si tu as des gens que tu aimerais inviter, des films que tu aimerais voir, etc... prends contact avec nous ! On vous présentera tout ça lors de l'événement d'ouverture.
+Pour l'automne 2024, on vous propose une série d'événements sur le thème de la surveillance policière en Suisse. Pour bien commencer, on va s'intéresser à l'affaire du scandale des fiches. Parce que dès la fin de la Seconde guerre mondiale et jusqu'à la révélation de l'affaire en 1989, la Police Fédérale suisse a surveillé en soum-soum plus de 900'000 personnes, dont de nombreuxses militant-x-e-s de gauche. Et, au vu de la récente recrudescence de la surveillance policière dans le canton 🐷, il nous parait important de se faire un petit rappel historique.
 
+Donc, RDV samedi 26 octobre à 16h00 à la bibliothèque pour une discussion avec deux militant-e-s neuchâtelois-e-s qui avaient été fiché-e-s. Pour l'occasion iels ont sorti leurs propres fiches de leurs placards et nous proposeront d'en parler ensemble.
