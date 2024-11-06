@@ -7,6 +7,8 @@ title: "Horaires et agenda"
 Euh mais super, dès le 6 septembre, on ouvre tous les vendredis de 16 à 19 heures. Quelle aubaine!
 
 ## Evénements à venir
-Pour l'automne 2024, on vous propose une série d'événements sur le thème de la surveillance policière en Suisse. Pour bien commencer, on va s'intéresser à l'affaire du scandale des fiches. Parce que dès la fin de la Seconde guerre mondiale et jusqu'à la révélation de l'affaire en 1989, la Police Fédérale suisse a surveillé en soum-soum plus de 900'000 personnes, dont de nombreuxses militant-x-e-s de gauche. Et, au vu de la récente recrudescence de la surveillance policière dans le canton 🐷, il nous parait important de se faire un petit rappel historique.
+Pour l'automne 2024, on vous propose une série d'événements sur le thème de la 👮‍♀️surveillance policière👮‍♀️ en Suisse. 
 
-Donc, RDV samedi 26 octobre à 16h00 à la bibliothèque pour une discussion avec deux militant-e-s neuchâtelois-e-s qui avaient été fiché-e-s. Pour l'occasion iels ont sorti leurs propres fiches de leurs placards et nous proposeront d'en parler ensemble.
+Après un super moment à parler du scandale des fiches (encore merci d'être venu·e·x·s, c'était grave bien), on vous propose cette fois de nous rejoindre le **jeudi 14 novembre à 19h00**, toujours au Clos-de-Serrières 25, pour un échange autour des pratiques d'interrogatoire policières. 
+
+Vu que par chez nous, la Police propose aux militant·e·x·s d'aller innocemment "boire des cafés ☕️😊", c'est l'occasion de se rappeler comment on se protège lorsque l'on parle à notre chère maréchaussée. xoxo et à bientôt
