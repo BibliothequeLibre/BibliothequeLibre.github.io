@@ -1,7 +1,7 @@
 ---
 title: "Accueil"
 ---
-## On a déménagé au Clos-de-Serrières 25 !
+## Prochain événement // Comment la police interroge et comment s'en défendre? JE 14/11 à 19h00
 
 {{< image source="logobiblio.jpeg" >}}
 
