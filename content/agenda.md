@@ -13,4 +13,4 @@ Après un super moment à parler du scandale des fiches (encore merci d'être ve
 
 Vu que par chez nous, la Police propose aux militant·e·x·s d'aller innocemment "boire des cafés ☕️😊", c'est l'occasion de se rappeler comment on se protège lorsque l'on parle à notre chère maréchaussée. xoxo et à bientôt.
 
-{{< image source="241114_PoliceInterroge.jpeg" >}}
+{{< image source="241114_PoliceInterroge.jpg" >}}
