@@ -1,8 +1,6 @@
 ---
 title: "Accueil"
 ---
-## Prochain événement // Comment la police interroge et comment s'en défendre? JE 14/11 à 19h00
-
 {{< image source="logobiblio.jpeg" >}}
 
 ## Qui sommes-nouX?
