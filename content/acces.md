@@ -21,6 +21,8 @@ L'accès à la bibliothèque se fait via quelques marches d'escaliers, pour l'in
 
 Comme tu l'auras compris, la Bibliothèque est un peu difficile d'accès pour les personnes à mobilité réduite (on s'en excuse et on travaille pour y remédier), mais, si tu trouves quelque chose dans notre catalogue qui te fait envie, contacte-nous et on se débrouillera pour te le faire parvenir :)
 
+Enfin, si tu as besoin que, lors de permanences ou durant nos événements, les personnes présentes portent un masque de protection, n'hésite pas à nous le dire sur le moment ou en nous contactant au préalable. La Bibliothèque stocke des masques FFP2 et les distribuera gratuitement aux personnes présentes.
+
 ## Contact et infos
 
 Cliquez sur l'icône et attendez pour voir les liens.
