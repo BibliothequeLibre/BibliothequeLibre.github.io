@@ -6,16 +6,41 @@ title: "Horaires et agenda"
 
 Euh mais super, on ouvre tous les vendredis de 16 à 19 heures. Quelle aubaine! Viens nous voir pour boire une tisane, papoter, lire une BD en silence ou nous emprunter un livre - ou pour nous les rendre, il faut pas hésiter non plus.
 
+Attention cependant! A partir de début juin, on ouvrira plus que un vendredi sur deux jusqu'aux vacances, qu'on prendra du 18 juillet jusqu'à la fin du mois d'août. Du coup, jusque là, la bilbiothèque sera ouverte aux dates suivantes:
+- 16 mai
+- 23 mai
+- 30 mai
+- 6 juin
+- 20 juin
+- 4 juillet
+- 18 juillet
+
 ## Evénements à venir
-**Présentation de _Refuser de parvenir, idées et pratiques_, le10 mai 2025, 16h00**
-Qu'on se le dise, annoncer triomphalement que tu meurs pas d’envie d’être un entrepreneur crypto à succès ou PDG de Bayer, ça met pas une excellente ambiance aux repas dominicaux. Pourtant, réussir, ça implique quoi, humainement? Et, est-ce que ça en vaut bien la peine?
+**☀☀SAVE THE DATE - BRUNCH DE SOUTIEN // 08 JUIN 2025☀☀**
 
-Alors, pour un peu discuter et réfléchir ensemble à ce sujet, la Bibliothèque Libre a invité les membres du Centre International de Recherche sur l’Anarchisme (CIRA pour les intimes), qui viendront nous présenter la dernière édition de leur ouvrage Refuser de parvenir (aux éditions nada), qui justement traite pile de ça! Quelle aubaine! Ce petit bouquin, qui compile des contributions originales, des entretiens actuels et des traductions inédites, propose un regard choisi sur ce principe radical d’insoumission.
+« Oui allô ? Comment ça ? C’est enfin le moment du brunch ? Sensas’, merci pour l’info Capitaine Fun ! Je prends mon oseille et j’arrive. » Tu as bien entendu : RDV dimanche 8 juin 2025 dans le jardin de Béthanie ! (C'est férié lundi hihi)
 
-Parce que, comme l’écrivent nos copainexs du CIRA : « Réussir, c’est se livrer corps et âme à la compétition pour se hisser au-dessus des autres ». Et de notre côté, se hisser au-dessus des autres - qui n’ont elleux rien demandé -  on trouve pas ça super-super.  Alors, comme l’écrivait Elisée Reclus: «Tant que notre triomphe ne sera pas en même temps celui de tous, ayons la chance de ne jamais réussir ! (mais nous, on serait très heureux·se·s que tu réussisses à venir, à samedi!)
 
-**SAVE THE DATE - 8 juin 2025, dès 12h00**
-Brunch de soutien de la Biblio (le 3ème? le 4ème? on sait plus lol). On a besoin de ton flouze & on prévoit une super après-midi et plein de trucs trop bon à manger. Programmation et détails TBA.
+**KOMENKSASPASSE ?**
+
+Dès 12H00
+On t’accueille avec le sourire mais surtout avec un brunch Olympien et un bar. (Y'aura aussi croqu' et gaufres pour les retardataires)
+
+14H00
+Jonathan Dumani aka AbSTRAL compost lira quelques extraits de son dernier livre « Le vrai visage de la pluie ».
+
+15H00
+Loto rigolo avec kin, double-kin et cartons DIY.
+
+17H00
+AbSTRAL compost // Live 
+
+18H30-21H00 (par-là)
+Sophia Butch et Michelle Belperche // Djset approximatif
+
+💕On se réjouit hyper de te voir!💕
+
+**💸 TOUT PRIX LIBRE MAIS CHER, ON A BESOIN DE FLOUZE 💸**
 
 
 
