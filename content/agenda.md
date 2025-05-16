@@ -41,6 +41,6 @@ Sophia Butch et Michelle Belperche // Djset approximatif
 💕On se réjouit hyper de te voir!💕
 
 **💸 TOUT PRIX LIBRE MAIS CHER, ON A BESOIN DE FLOUZE 💸**
-
+{{< image source="250516_affichebrunch.jpg" >}}
 
 
