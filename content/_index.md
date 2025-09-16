@@ -1,7 +1,6 @@
 ---
 title: "Accueil"
 ---
-**SAVE THE DATE // 8 JUIN 2024, 12H00 // BRUNCH DE SOUTIEN & CONCERTS**
 {{< image source="logobiblio.jpeg" >}}
 
 ## Qui sommes-nouX?
