@@ -8,9 +8,9 @@ title: "Accueil"
 La Bibliothèque Libre est une bibliothèque libertaire à visée révolutionnaire.
 Son histoire débute au squat de la Prise (NE), où ses habitant-x-e-s créent collectivement et progressivement un infokiosk, comprenant des livres, des BD et des zines.
 
-En juin 2021, suite à la fermeture du lieu, une petite équipe de bénévole décide de reprendre l’aventure en cherchant un nouvel emplacement où accueillir, compléter et mettre en valeur ce précieux fonds. Après de vastes recherches, c’est à Hauterive que la bibliothèque pose ses valises. Elle ouvrira officiellement ses portes en automne 2023, dans la fraicheur d’un magnifique abri antiatomique réaménagé.
+En juin 2021, suite à la fermeture du lieu, une petite équipe de bénévole-x-s décide de reprendre l’aventure en cherchant un nouvel emplacement où accueillir, compléter et mettre en valeur ce précieux fonds. Après de vastes recherches, c’est à Hauterive que la Bibliothèque pose ses valises. Elle ouvrira officiellement ses portes en automne 2023, dans la fraicheur d’un magnifique abri antiatomique réaménagé.
 
-Puis, au début de l'été 2024, la Bibliothèque déménage à nouveau à la Béthanie, nouveau lieu culturel neuchâtelois situé à Serrières.
+Puis, au début de l'été 2024, la Bibliothèque déménage à Béthanie, nouveau lieu culturel neuchâtelois situé à Serrières.
 
 ## Politique 
 
