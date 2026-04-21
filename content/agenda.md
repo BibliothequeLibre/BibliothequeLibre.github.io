@@ -17,5 +17,16 @@ Donc, on t'attends aux dates suivantes :
 - 24 avril
   
 ## Evénements à venir
-**☀☀ON SAIT PAS ENCORE MAIS ON VOUS DIT VITE lol sans doute quelque chose de chouette en février☀☀**
+🏗JEUDI 23 AVRIL // 19H00🔨
+
+Présentation du livre "Sociologie des chantier"
+Par son autrice Laura Galhano
+
+Suivie par discussion et apéro 🤍
+
+"Sous la poussière et le vacarme des chantiers suisses se joue bien plus qu’une simple production matérielle : c’est tout un ordre moral qui se construit et se reproduit. Cette enquête sociologique met au jour les logiques invisibles qui structurent le monde du gros œuvre : la hiérarchie des emplois, les appartenances nationales, les normes viriles, la faible reconnaissance des compétences.
+
+En donnant voix aux maçons, contremaîtres, recruteurs et conducteurs de travaux, cet ouvrage met en lumière les catégories de jugement qui organisent le travail, celles qui distinguent le travailleur « de valeur » du « sans-valeur ». Loin des clichés d’un milieu « peu qualifié », il montre comment se fabrique, dans la parole et les pratiques, une dignité propre aux travailleurs et travailleuses du bâtiment."
+
+A tout bientôt!
 
