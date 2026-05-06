@@ -7,26 +7,47 @@ title: "Horaires et agenda"
 Euh mais super, on ouvre un vendredi sur deux de 16 à 19 heures. Quelle aubaine! Viens nous voir pour boire une tisane, papoter, lire une BD en silence ou nous emprunter un livre (ou pour nous les rendre, il faut pas hésiter non plus. On vous voit)
 
 Donc, on t'attends aux dates suivantes :
-- 16 janvier
-- 30 janvier
-- 13 février
-- 27 février
-- 13 mars
-- 27 mars
-- 10 avril
-- 24 avril
+- 8 mai
+- 22 mai
+- 5 juin
+- 19 juin
+- 3 juillet
+
+Puis, la biblio sera fermée pour une pause estivale. Réouverture en septembre, donc passe avant le 3 juillet pour prendre des bouquins pour tes vacances !
   
 ## Evénements à venir
-🏗JEUDI 23 AVRIL // 19H00🔨
+🏗24 mai // dès 13h12 🔨
+BRUNCH DE SOUTIEN BIBLIOLIBRE
 
-Présentation du livre "Sociologie des chantier"
-Par son autrice Laura Galhano
+NOMDEDZOU DE NOMDEDZOU, ne serait-ce pas la période du désormais lé-gen-daire brunch de la biblio ? 
+Quelle aubaine, purée !
 
-Suivie par discussion et apéro 🤍
+Alors que le monde part à la dérive, on t’embarque pour une parenthèse requinque nécessaire.
+Bouffe et jeux all day long bébé !
 
-"Sous la poussière et le vacarme des chantiers suisses se joue bien plus qu’une simple production matérielle : c’est tout un ordre moral qui se construit et se reproduit. Cette enquête sociologique met au jour les logiques invisibles qui structurent le monde du gros œuvre : la hiérarchie des emplois, les appartenances nationales, les normes viriles, la faible reconnaissance des compétences.
+ONFEKOI ?
 
-En donnant voix aux maçons, contremaîtres, recruteurs et conducteurs de travaux, cet ouvrage met en lumière les catégories de jugement qui organisent le travail, celles qui distinguent le travailleur « de valeur » du « sans-valeur ». Loin des clichés d’un milieu « peu qualifié », il montre comment se fabrique, dans la parole et les pratiques, une dignité propre aux travailleurs et travailleuses du bâtiment."
+13H12 : Ouverture du jardin, buffet et bar
+Snacks délicieux et Croques malicieux (VG/Vegan)
 
-A tout bientôt!
+14H30 : Vieux Loup de Mer nous lira quelques textes poétiques issus de son dernier ouvrage "Gentiane et gens d'ailleurs". En musique !
 
+15H30 : Loto rigolo 
+Bénéfices pour la caisse de soutien Antirep Neuch ❤️
+
+17H30 : Tournoi de ☀1,2,3 SOLEIL☀
+Parce que pourquoi pas finalement ?
+
+18H00-21H : DJ Youtube
+Note ta chanson du bonheur et on la passe !
+(Sur un malentendu, on la chante aussi.)
+
+ONFEOU ?
+Jardin de Béthanie 
+Clos-de-Serrières 25, 2000 Neuchâtel-Serrières
+
+CKOMBIEN ?
+Tout prix libre (cher) 
+Ca$h ou Twint
+
+❤️ On se réjouit de te revoir ❤️
