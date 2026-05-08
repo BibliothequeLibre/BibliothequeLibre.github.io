@@ -27,4 +27,4 @@ Anarchistes convaincu-x-e-s ou simples curieux-ses, nouX avons hâte de partager
 **Sur place, les comportements suivants ne seront pas tolérés :
 Racisme, LGBTQI+phobie, sexisme, classisme ou toutes autres formes de stigmatisation et discrimination.**
 
-{{< image source="photo_2026-05-06 12.56.27.jpeg" >}}
+{{< image source="260524_affichebrunch.jpeg" >}}
