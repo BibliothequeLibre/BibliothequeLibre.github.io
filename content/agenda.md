@@ -52,4 +52,4 @@ Ca$h ou Twint
 
 ❤️ On se réjouit de te revoir ❤️
 
-{{< image source="photo_2026-05-06 12.56.27.jpeg" >}}
+{{< image source="260524_affichebrunch.jpeg" >}}
