@@ -11,7 +11,6 @@ Donc, on t'attends aux dates suivantes :
 - 22 mai
 - 5 juin
 - 19 juin
-- 3 juillet
 
 Puis, la biblio sera fermée pour une pause estivale. Réouverture en septembre, donc passe avant le 3 juillet pour prendre des bouquins pour tes vacances !
   
