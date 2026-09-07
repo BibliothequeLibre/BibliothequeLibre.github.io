@@ -15,40 +15,31 @@ Donc, on t'attends aux dates suivantes :
 Puis, la biblio sera fermée pour une pause estivale. Réouverture en septembre, donc passe avant le 3 juillet pour prendre des bouquins pour tes vacances !
   
 ## Evénements à venir
-🏗24 mai // dès 13h12 🔨
-BRUNCH DE SOUTIEN BIBLIOLIBRE
+18 sept. 2026 // Bibliothèque Libre // 19h00
 
-NOMDEDZOU DE NOMDEDZOU, ne serait-ce pas la période du désormais lé-gen-daire brunch de la biblio ? 
-Quelle aubaine, purée !
+Youpi ! C'est la rentrée !
+Pour l'occasion, nous sommes ravixes de vous annoncer le 1er événement de la saison : nous accueillerons Joyce Rivière pour la présentation de son nouveau recueil, «Qu’importe la matière », paru en juin 2026 aux éditions Blast.
 
-Alors que le monde part à la dérive, on t’embarque pour une parenthèse requinque nécessaire.
-Bouffe et jeux all day long bébé !
+Joyce Rivière, autrice lesbienne et trans, explore dans ses textes les expériences trans et lesbiennes à travers une poésie où le corps, le désir, l'amour et les rapports de pouvoir occupent une place centrale.
 
-ONFEKOI ?
+La soirée se poursuivra par un échange avec l'autrice et un petit DJ set !
 
-13H12 : Ouverture du jardin, buffet et bar
-Snacks délicieux et Croques malicieux (VG/Vegan)
+Un stand de la Librairie Précipice sera à votre disposition pour l'achat d'un exemplaire de "Qu'importe la matière" et autres aubaines ! Paiement par cash ou twint
 
-14H30 : Vieux Loup de Mer nous lira quelques textes poétiques issus de son dernier ouvrage "Gentiane et gens d'ailleurs". En musique !
+Lecture, Bar et snacks
+Prix libre (cash et twint)
 
-15H30 : Loto rigolo 
-Bénéfices pour la caisse de soutien Antirep Neuch ❤️
+💜 On a hâte de vous revoir 💜
 
-17H30 : Tournoi de ☀1,2,3 SOLEIL☀
-Parce que pourquoi pas finalement ?
+TIMING
+19H00 : Ouverture des portes
+19H30 : Lectures et discussion
+21H00(ish) : DJ set
+FIN VERS 23H00
 
-18H00-21H : DJ Youtube
-Note ta chanson du bonheur et on la passe !
-(Sur un malentendu, on la chante aussi.)
-
-ONFEOU ?
-Jardin de Béthanie 
-Clos-de-Serrières 25, 2000 Neuchâtel-Serrières
-
-CKOMBIEN ?
-Tout prix libre (cher) 
-Ca$h ou Twint
+Rdv à Béthanie
+Clos-de-Serrières 25
+2000 Neuchâtel
 
 ❤️ On se réjouit de te revoir ❤️
 
-{{< image source="260524_affichebrunch.jpeg" >}}
