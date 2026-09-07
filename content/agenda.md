@@ -7,13 +7,19 @@ title: "Horaires et agenda"
 Euh mais super, on ouvre un vendredi sur deux de 16 à 19 heures. Quelle aubaine! Viens nous voir pour boire une tisane, papoter, lire une BD en silence ou nous emprunter un livre (ou pour nous les rendre, il faut pas hésiter non plus. On vous voit)
 
 Donc, on t'attends aux dates suivantes :
-- 8 mai
-- 22 mai
-- 5 juin
-- 19 juin
+- 18 septembre, suivi d'une lecture de Joyce Rivière! Plus de détails ci-dessous
+- 2 octobre, exceptionnellement jusqu'à 18h00 environ parce qu'après on filera à la manifestation pour la justice climatique, contre l'austérité et contre la militarisation (tout ça!), qui débutera sur la Place de la Gare.
+- 16 octobre
+- 30 octobre
+- 13 novembre
+- 27 novembre
+- 11 décembre
+- 8 janvier 
+- 22 janvier
+- 5 février
+- 19 février
 
-Puis, la biblio sera fermée pour une pause estivale. Réouverture en septembre, donc passe avant le 3 juillet pour prendre des bouquins pour tes vacances !
-  
+
 ## Evénements à venir
 18 sept. 2026 // Bibliothèque Libre // 19h00
 
